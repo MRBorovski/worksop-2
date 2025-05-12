@@ -66,4 +66,5 @@
 ### 11. Зафіксуйте
 	- Рівень контрасту.
 	- Чи проходить ця пара перевірку для звичайного тексту (AA) і великого тексту (AAA). Якщо контраст недостатній — використайте запропоновану корекцію і збережіть скріншот.
-
+![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/AA.png)
+![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/AAA.png)
