@@ -1,7 +1,7 @@
 # 1. Робота з колірним колесом (Color Wheel)
 
 ## 1. Виберіть базовий колір.
- (КАРТИНКА)
+![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/Basic%20color.png)
 
 ## 2. Створіть палітри для кожного типу гармонії:
 ### Analogous
