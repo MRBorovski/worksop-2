@@ -40,19 +40,19 @@
 
 ### 4. Завантажте будь-яке зображення у розділ Extract Theme.
 ### 5. Створіть палітру у двох варіантах настрою:
-      - Colorful
-     ![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/%D1%81olorful.png)
-      - Muted
-    ![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/muted.png)
+- Colorful
+![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/%D1%81olorful.png)
+- Muted
+![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/muted.png)
 
 ### 6. Збережіть скріншоти обох варіантів і коротко опишіть:
-      - Яка палітра більше підходить для інтерфейсу додатку?
-      - Чому?
+	- Яка палітра більше підходить для інтерфейсу додатку?
+	- Чому?
 
 ### 7. Завантажте те саме або інше зображення у розділ Extract Gradient.
 ### 8. Створіть градієнт з трьома кольоровими точками (Gradient Stops = 3).
 ### 9. Збережіть скріншот побудованого градієнта.
-![КАРТИНКА] (https://github.com/MRBorovski/worksop-2/blob/main/palitres/gradient.png)
+![КАРТИНКА](https://github.com/MRBorovski/worksop-2/blob/main/palitres/gradient.png)
 
 # 4. Аналіз контрасту (Accessibility Tools)
 ### 10. Використовуючи будь-яку комбінацію кольорів із попередніх палітр:
