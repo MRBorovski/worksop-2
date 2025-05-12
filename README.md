@@ -5,7 +5,7 @@
 
 ## 2. Створіть палітри для кожного типу гармонії:
 ### Analogous
- https://github.com/MRBorovski/worksop-2/blob/main/palitres/%D0%BF%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0.png
+ ! https://github.com/MRBorovski/worksop-2/blob/main/palitres/%D0%BF%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0.png
 ### Monochromatic
  https://github.com/MRBorovski/worksop-2/blob/main/palitres/%D0%BC%D0%BE%D0%BD%D0%BE%D1%85%D1%80%D0%BE%D0%BC%D0%BD%D0%B0.png
 ### Triad
